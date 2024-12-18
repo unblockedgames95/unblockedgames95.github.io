@@ -1,0 +1,653 @@
+[
+    {
+        "slug": "rbg",
+        "title": "Retro Bowl",
+        "type": 1
+    },
+    {
+        "slug": "newgame/bloxorz.html",
+        "title": "Bloxorz",
+        "img": "https://slope-game.github.io/new3623/bloxorz/logo.png"
+    },
+    {
+        "slug": "newgame/idle-breakout.html",
+        "title": "Idle Breakout",
+        "img": "https://slope-game.github.io/new3623/idle-breakout/logo.png"
+    },
+    {
+        "slug": "flashgames/papas-pizzeria.html",
+        "title": "Papas Pizzeria",
+        "img": "flashgames/logo/papas-pizzeria.png"
+    },
+    {
+        "slug": "newgame/bitlife-life-simulator.html",
+        "title": "BitLife",
+        "img": "https://slope-game.github.io/new3623/bitlife-life-simulator/logo.png"
+    },
+    {
+        "slug": "iron-1",
+        "title": "Iron Snout",
+        "type": 1
+    },
+    {
+        "slug": "iron-2",
+        "title": "Iron Snout 2",
+        "type": 1
+    },
+    {
+        "slug": "run3",
+        "title": "Run 3",
+        "type": 1
+    },
+    {
+        "slug": "vex7",
+        "title": "Vex 7",
+        "type": 1
+    },{
+        "slug": "motox3m-2",
+        "title": "Moto X3M 2"
+    },{
+        "slug": "motox3m-3",
+        "title": "Moto X3M 3"
+    },
+    {
+        "slug": "slope",
+        "title": "Slope"
+    },
+    {
+        "slug": "tunnel-rush",
+        "title": "Tunnel Rush",
+        "type": 1
+    },
+	
+    {
+        "slug": "angry-gran-run",
+        "title": "Angry gran run",
+        "type": 1
+    },
+    {
+        "slug": "2048",
+        "title": "2048"
+    },
+    {
+        "slug": "cookie-clicker",
+        "title": "Cookie Clicker",
+        "type": 1
+    },
+    {
+        "slug": "eggy-car",
+        "title": "Eggy car",
+        "type": 1
+    },{
+        "slug": "endless-truck",
+        "title": "Endless truck",
+        "type": 1
+    },{
+        "slug": "block-the-pig",
+        "title": "Block the Pig",
+        "type": 1
+    },{
+        "slug": "among-us",
+        "title": "Among us",
+        "type": 1
+    },{
+        "slug": "fireboy-and-watergirl-1",
+        "title": "Fireboy and watergirl",
+        "type": 1
+    },
+    {
+        "slug": "vex6",
+        "title": "Vex 6",
+        "type": 1
+    },
+    {
+        "slug": "vex5",
+        "title": "Vex 5",
+        "type": 1
+    },
+    {
+        "slug": "vex4",
+        "title": "Vex 4",
+        "type": 1
+    },
+    {
+        "slug": "vex3",
+        "title": "Vex 3",
+        "type": 1
+    },{
+        "slug": "basket-ball",
+        "title": "Basket and Ball",
+        "type": 1
+    },
+    {
+        "slug": "basketball-legends",
+        "title": "Basketball Legends"
+    },
+    {
+        "slug": "basketball-stars",
+        "title": "Basketball Stars"
+    },
+    {
+        "slug": "bottle-flip-3d",
+        "title": "Flip Bottle"
+    },
+    {
+        "slug": "tiny-fishing",
+        "title": "Tiny Fishing"
+    },
+    
+    {
+        "slug": "moto-x3m",
+        "title": "Moto x3m"
+    },
+    {
+        "slug": "moto-x3m-4-winter",
+        "title": "Moto x3m Winter"
+    },
+    {
+        "slug": "moto-x3m-5-pool-party",
+        "title": "Moto x3m Pool Party"
+    },
+    {
+        "slug": "moto-x3m-spooky-land",
+        "title": "Moto x3m Spooky Land"
+    },
+    {
+        "slug": "drift-boss",
+        "title": "Drift Boss",
+        "type": 1
+    },
+    {
+        "slug": "drift-hunters",
+        "title": "Drift Hunters",
+        "type": 1
+    },
+    {
+        "slug": "1v1-lol",
+        "title": "1v1.LOL",
+        "type": 1
+    },
+    {
+        "slug": "smash-karts",
+        "title": "Smash Karts"
+    },
+    {
+        "slug": "boxrob",
+        "title": "BoxRob",
+        "type": 1
+    },
+    {
+        "slug": "burnin-rubber-5-xs",
+        "title": "Burnin Rubber 5 XS",
+        "type": 1
+    },
+    {
+        "slug": "doodle-jump",
+        "title": "Doodle Jump",
+        "type": 1
+    },
+    {
+        "slug": "ducklife-4",
+        "title": "Duck Life 4",
+        "type": 1
+    },
+    {
+        "slug": "eagle-ride",
+        "title": "Eagle Ride",
+        "type": 1
+    },
+    {
+        "slug": "stickman-hook-halloween",
+        "title": "Stickman Hook",
+        "type": 1
+    },
+    {
+        "slug": "basket-ball",
+        "title": "Basket and Ball",
+        "type": 1
+    },
+    {
+        "slug": "b-cubed",
+        "title": "B cubed",
+        "type": 1
+    },
+    {
+        "slug": "candy-jump",
+        "title": "Candy Jump",
+        "type": 1
+    },
+    {
+        "slug": "football-legends",
+        "title": "Football Legends"
+    },
+    {
+        "slug": "icy-purple-head-3",
+        "title": "Icy purple head 3"
+    },
+    {
+        "slug": "icy-purple-head-2",
+        "title": "Icy purple head",
+        "type": 1
+    },
+    {
+        "slug": "icy-purple-head-superslide",
+        "title": "Icy purple head superslide"
+    },
+    {
+        "slug": "idle-startup-tycoon",
+        "title": "Idle startup tycoon",
+        "type": 1
+    },
+    {
+        "slug": "jelly-truck",
+        "title": "Jelly stuck",
+        "type": 1
+    },
+    {
+        "slug": "magikmon",
+        "title": "Magikmon",
+        "type": 1
+    },
+    {
+        "slug": "ovo",
+        "title": "Ovo",
+        "type": 1
+    },
+    {
+        "slug": "parking-fury",
+        "title": "Parking fury",
+        "type": 1
+    },
+    {
+        "slug": "parking-fury-2",
+        "title": "Parking fury 2",
+        "type": 1
+    },
+    {
+        "slug": "parking-fury-3",
+        "title": "Parking fury 3",
+        "type": 1
+    },
+    {
+        "slug": "penalty-kick-online",
+        "title": "Penalty kick online"
+    },
+    {
+        "slug": "tap-tap-shots",
+        "title": "Tap Tap Shots",
+        "type": 1   
+    },
+    {
+        "slug": "there-is-no-game",
+        "title": "There is no game",
+        "type": 1
+    },
+    {
+        "slug": "traffic-mania",
+        "title": "Traffic mania"
+    },
+    {
+        "slug": "worlds-hardest-game",
+        "title": "Worlds hardest game",
+        "type": 1
+    },
+    {
+        "slug": "worlds-hardest-game-2",
+        "title": "Worlds hardest game 2"
+    },
+    {
+        "slug": "worlds-hardest-game-3",
+        "title": "Worlds hardest game 3"
+    },
+    {
+        "slug": "fnf-b-sides-remixes",
+        "title": "Friday Night Funkin B Side"
+    },
+    {
+        "slug": "fnf-ben-drowned-2",
+        "title": "Friday Night Funkin ben drowned 2"
+    },
+    {
+        "slug": "fnf-but-bad",
+        "title": "Friday Night Funkin But Bad"
+    },
+    {
+        "slug": "fnf-vs-garcello",
+        "title": "Friday Night Funkin Garcello"
+    },
+    {
+        "slug": "fnf-golf",
+        "title": "Friday Night Funkin Golf"
+    },
+    {
+        "slug": "fnf-hd",
+        "title": "Friday Night Funkin' HD"
+    },
+    {
+        "slug": "fnf-henry",
+        "title": "Friday Night Funkin Henry"
+    },
+    {
+        "slug": "fnf-holo",
+        "title": "Friday Night Funkin Holo"
+    },
+    {
+        "slug": "fnf-indie-cross",
+        "title": "Friday Night Funkin': Indie Cross"
+    },
+    {
+        "slug": "fnf-kk",
+        "title": "Friday Night Funkin' K.k Slider"
+    },
+    {
+        "slug": "fnf-midfight",
+        "title": "Friday Night Funkin' Sarvente's Mid-Fight Masses"
+    },
+    {
+        "slug": "fnf-neo",
+        "title": "Friday Night Funkin' Neo"
+    },
+    {
+        "slug": "fnf-picos-school",
+        "title": "Friday Night Funkin' Picos School"
+    },
+    {
+        "slug": "fnf-squid-game",
+        "title": "Friday Night Funkin': Squid Game"
+    },
+    {
+        "slug": "fnf-the-date-week",
+        "title": "Friday Night Funkin' : The Date Week"
+    },
+    {
+        "slug": "fnf-the-tricky-mod",
+        "title": "Friday Night Funkin' Vs. Tricky"
+    },
+    {
+        "slug": "fnf-vs-accelerant-hank",
+        "title": "Friday Night Funkin': Accelerant Hank"
+    },
+    {
+        "slug": "fnf-vs-agoti",
+        "title": "Friday Night Funkin' Agoti"
+    },
+    {
+        "slug": "fnf-vs-annie",
+        "title": "Friday Night Funkin' Annie"
+    },
+    {
+        "slug": "fnf-vs-bob-and-bosip",
+        "title": "Friday Night Funkin' Bob & Bosip: The Expansion Update!"
+    },
+    {
+        "slug": "fnf-vs-bob-week",
+        "title": "Fnf Bob's Onslaught"
+    },
+    {
+        "slug": "fnf-vs-cassandra",
+        "title": "Friday Night Funkin' Cassandra"
+    },
+    {
+        "slug": "fnf-vs-chara",
+        "title": "Friday Night Funkin' Chara"
+    },
+    {
+        "slug": "fnf-vs-dave-and-bambi",
+        "title": "Friday Night Funkin': Vs Dave And Bambi Definitive Edition & Bambi's Purgatory"
+    },
+    {
+        "slug": "fnf-vs-eteled",
+        "title": "Friday Night Funkin' Eteled"
+    },
+    {
+        "slug": "fnf-vs-flippy",
+        "title": "Friday Night Funkin': Flippy"
+    },
+    {
+        "slug": "fnf-vs-freddy-fazbear",
+        "title": "Friday Night Funkin Vs FNaF 1"
+    },
+    {
+        "slug": "fnf-vs-hatsune-miku",
+        "title": "Friday Night Funkin' + Miku"
+    },
+    {
+        "slug": "fnf-vs-hex",
+        "title": "Friday Night Funkin': Hex Full Week"
+    },
+    {
+        "slug": "fnf-vs-huggy-wuggy",
+        "title": "Friday Night Funkin': Huggy Wuggy"
+    },
+    {
+        "slug": "fnf-vs-impostor",
+        "title": "FNF VS Impostor v3"
+    },
+    {
+        "slug": "fnf-vs-kapi",
+        "title": "Friday Night Funkin': Kapi"
+    },
+    {
+        "slug": "fnf-vs-monika",
+        "title": "Friday Night Funkin': Doki Doki Takeover"
+    },
+    {
+        "slug": "fnf-vs-qt",
+        "title": "FNF QT Mod"
+    },
+    {
+        "slug": "fnf-vs-selever",
+        "title": "Friday Night Funkin': VS Selever Mod"
+    },
+    {
+        "slug": "fnf-vs-shaggy",
+        "title": "Friday Night Funkin' VS Shaggy"
+    },
+    {
+        "slug": "fnf-vs-sketchy-remastered",
+        "title": "Friday Night Funkin Sketchy Remastered"
+    },
+    {
+        "slug": "fnf-vs-sky",
+        "title": "Friday Night Funkin' Vs Sky Remanifest"
+    },
+    {
+        "slug": "fnf-vs-sonicexe",
+        "title": "Friday Night Funkin': Vs Sonic.exe"
+    },
+    {
+        "slug": "fnf-vs-suicide-mouse",
+        "title": "Friday Night Funkin Suicide Mouse"
+    },
+    {
+        "slug": "fnf-vs-sunday-remastered",
+        "title": "Friday Night Funkin Sunday Remastered"
+    },
+    {
+        "slug": "fnf-vs-tabi-ex-boyfriend",
+        "title": "Friday Night Funkin' VS Tabi"
+    },
+    {
+        "slug": "fnf-vs-trollface-trollge",
+        "title": "Funkin Physics: Vs Corruptus"
+    },
+    {
+        "slug": "fnf-vs-zardy",
+        "title": "Friday Night Funkin vs Zardy"
+    },
+    {
+        "slug": "fnf-whitty",
+        "title": "Friday Night Funkin vs Whitty"
+    },
+    {
+        "slug": "friday-night-funkin",
+        "title": "Friday Night Funkin"
+    },
+    {
+        "slug": "friday-night-funkin-vs-matt",
+        "title": "Friday Night Funkin Matt"
+    },
+    {
+        "slug": "getaway-shootout",
+        "title": "Getaway Shootout",
+        "type": 1
+    },
+    {
+        "slug": "gswitch",
+        "title": "G-Switch 3",
+        "type": 1
+    },
+    {
+        "slug": "house-of-hazards",
+        "title": "House Of Hazards",
+        "type": 1
+    },
+    {
+        "slug": "idle-mining-empire",
+        "title": "Idle Mining Empire",
+        "type": 1
+    },
+    {
+        "slug": "madalin-stunt-cars-2",
+        "title": "Madalin stunt cars 2",
+        "type": 1
+    },
+    {
+        "slug": "madalin-stunt-cars-3",
+        "title": "Madalin stunt cars 3",
+        "type": 1
+    },
+    {
+        "slug": "merge-cakes",
+        "title": "Merge Cakes",
+        "type": 1
+    },
+    {
+        "slug": "murder",
+        "title": "Murder",
+        "type": 1
+    },
+    {
+        "slug": "rooftop-snipers",
+        "title": "Rooftop Snipers",
+        "type": 1
+    },
+    {
+        "slug": "running-fred",
+        "title": "Running Fred",
+        "type": 1
+    },
+    {
+        "slug": "skiing-fred",
+        "title": "Skiing Fred",
+        "type": 1
+    },
+    {
+        "slug": "slope-ball",
+        "title": "Slope Ball"
+    },
+    {
+        "slug": "slope-city",
+        "title": "Slope City",
+        "type": 1
+    },
+    {
+        "slug": "slope-racing-3d",
+        "title": "Slope Racing 3D",
+        "type": 1
+    },
+    {
+        "slug": "slope-tunnel",
+        "title": "Slope Tunnel"
+    },
+    {
+        "slug": "slope3",
+        "title": "Slope 3"
+    },
+    {
+        "slug": "snake",
+        "title": "Snake"
+    },
+    {
+        "slug": "super-slope-game",
+        "title": "Super Slope Game",
+        "type": 1
+    },
+    {
+        "slug": "the-spear-stickman",
+        "title": "The Spear Stickman",
+        "type": 1
+    },
+    {
+        "slug": "two-ball-3d",
+        "title": "Two Ball 3d"
+    },
+    {
+        "slug": "two-ball-3d-dark",
+        "title": "Two Ball 3D dark",
+        "type": 1
+    },
+    {
+        "slug": "two-tunnel-3d",
+        "title": "Two Tunnel 3d"
+    },
+    {
+        "slug": "stickman-fighter-epic-battle",
+        "title": "Stickman Fighter",
+        "type": 1
+    },
+    {
+        "slug": "stickman-fighter-epic-battle-2",
+        "title": "Stickman Fighter 2",
+        "type": 1
+    },
+    
+    {
+        "slug": "bob-the-robber-4",
+        "title": "Bob The Robber 4",
+        "type": 1
+    },
+    {
+        "slug": "car-rush",
+        "title": "Car Rush",
+        "type": 1
+    },
+    {
+        "slug": "color-road",
+        "title": "Color Road",
+        "type": 1
+    },
+    {
+        "slug": "guess-the-kitty",
+        "title": "Guess the kitty",
+        "type": 1
+    },
+    {
+        "slug": "jewel-shuffle",
+        "title": "Jewel"
+    },
+    
+    {
+        "slug": "mr-bullet",
+        "title": "Mr Bullet",
+        "type": 1
+    },
+    {
+        "slug": "rainbow-stacker",
+        "title": "Stack"
+    },
+    {
+        "slug": "rolly-vortex",
+        "title": "Rolly Vortex",
+        "type": 1
+    },
+    {
+        "slug": "stackbounce",
+        "title": "Stack Bounce"
+    },
+    {
+        "slug": "the-impossible-quiz",
+        "title": "The impossible quiz",
+        "type": 1
+    }
+]
