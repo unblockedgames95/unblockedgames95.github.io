@@ -10,21 +10,21 @@ function showList(file){
             let html = "";
             
             data.forEach((item) =>{
-                var img = `https://tbg95.github.io/${item.slug}/logo.png`;
+                var img = `https://unblockedgames95.github.io/${item.slug}/logo.png`;
                 if(item.img){
                     if(item.img.indexOf("https://") !== -1){
                         img = item.img;
                     } else {
-                        img = `https://tbg95.github.io/${item.img}`;
+                        img = `https://unblockedgames95.github.io/${item.img}`;
                     }
                     
                 }
-                var slug = `https://tbg95.github.io/${item.slug}/`;
+                var slug = `https://unblockedgames95.github.io/${item.slug}/`;
                 if(item.slug.indexOf(".html") !== -1){
-                    slug = `https://tbg95.github.io/${item.slug}`;
+                    slug = `https://unblockedgames95.github.io/${item.slug}`;
                 }
                 if(item.hasOwnProperty('type') && item.slug.indexOf("newgame") == -1 && item.slug.indexOf("flashgames") == -1){
-                    slug = `https://tbg95.github.io/newgame/${item.slug}.html`;
+                    slug = `https://unblockedgames95.github.io/newgame/${item.slug}.html`;
                 }
                 const htmlItem = `<a href="${slug}" target="_self" title="${item.title}" class="tile-card">
                             <figure class="image is-16by9">
@@ -66,11 +66,11 @@ function liveSearch(){
     for (var j=0; j<listGame.length; j++) {
         if (listGame[j].title.toUpperCase().indexOf(x.toUpperCase()) >= 0) {
             var item = listGame[j];
-            const htmlItem = `<a href="https://tbg95.github.io/${item.slug}/" target="_self" title="${item.title}" class="tile-card">
+            const htmlItem = `<a href="https://unblockedgames95.github.io/${item.slug}/" target="_self" title="${item.title}" class="tile-card">
                 <figure class="image is-16by9">
                     <img
                         loading="lazy"
-                        src="https://tbg95.github.io/${item.slug}/logo.png"
+                        src="https://unblockedgames95.github.io/${item.slug}/logo.png"
                         alt="${item.title}"
                     />
                 </figure>
