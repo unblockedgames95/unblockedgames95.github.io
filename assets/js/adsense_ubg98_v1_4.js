@@ -41,7 +41,7 @@ window.addEventListener("load", (event) => {
                 loadGoogleAdsense();
             }
         } else {
-            console.log("Adsense Skip! Not Games235!");
+            console.log("Adsense Skip!");
         }
     }
 });
