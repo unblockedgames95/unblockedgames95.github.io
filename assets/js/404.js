@@ -1,5 +1,5 @@
 let fullPath= window.location.href;
-if (fullPath.indexOf("-unblocked.html")> 0) {
-    fullPath= fullPath.replace("-unblocked.html", "-unblockedz.html");
+if (fullPath.indexOf("-school.html")> 0) {
+    fullPath= fullPath.replace("-school.html", "-schoolz.html");
     window.location= fullPath;
 }

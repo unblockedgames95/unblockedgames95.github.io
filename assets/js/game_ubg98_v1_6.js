@@ -41,7 +41,7 @@ window.addEventListener("load", (event) => {
     const gameFrame= document.getElementById("gameFrame");
     const gameName= gameFrame?.name ?? "";
     let gameLoad= true;
-    if (window.location.href.indexOf("-unblockedz.html")> -1) {
+    if (window.location.href.indexOf("-schoolz.html")> -1) {
         const ua= window?.navigator?.userAgent;
         const screenWidth= window?.screen?.width;
         const screenHeight= window?.screen?.height;
@@ -65,6 +65,6 @@ window.addEventListener("load", (event) => {
     
     if (gameName!= "" && gameLoad) {
         console.log("LoadGame", gameName);
-        gameFrame.src= `https://unblockedgames95.github.io/${gameName}/`;
+        gameFrame.src= `https://schoolgames95.github.io/${gameName}/`;
     }    
 });

@@ -29,12 +29,12 @@ window.addEventListener("load", (event) => {
         console.log('Bot Browser');
     } else {
         console.log('Human Browser');
-        if (window.location.href.indexOf("/unblockedgames95.github.io")> -1) {
+        if (window.location.href.indexOf("/schoolgames95.github.io")> -1) {
             if (inFrame()) {
                 console.log("Adsense Skip! Frame!");
             } else if (window.location.href.indexOf(".html")== -1) {
                 console.log("Adsense Skip! Home Page!");
-            } else if (window.location.href.indexOf("-unblockedz.html")> -1) {
+            } else if (window.location.href.indexOf("-schoolz.html")> -1) {
                 console.log("Adsense Skip! DMCA!");            
             } else {
                 console.log("Adsense Served!");
